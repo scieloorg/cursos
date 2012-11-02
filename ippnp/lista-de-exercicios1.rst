@@ -24,6 +24,13 @@ Lista de exercícios 1
        i
        o
 
+#. Implemente uma função que recebe uma *string* no formato *csv*
+   como argumento e produz a saída conforme o exemplo abaixo::
+
+       >>> csv_para_humanos('Gustavo Fonseca,Engenheiro de Software,28')
+       Nome: Gustavo Fonseca
+       Atividade: Engenheiro de Software
+       Idade: 28
 
 
 .. [1] http://git.io/dBUqag
